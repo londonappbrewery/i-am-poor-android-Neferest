@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">I Am Poor</string>
+    <string name="line">I am an apprentice</string>
+    <string name="subject">Developer</string>
 </resources>
